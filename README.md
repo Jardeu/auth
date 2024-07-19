@@ -1,2 +1,2 @@
 # auth
-Sistema de autenticação
+Sistema de autenticação usando as tecnologias Spring Boot e JWT
